@@ -1,0 +1,11 @@
+{
+	"database": {
+		"databaseUrl": "mongodb://localhost/user-crud"
+	},
+	"session": {
+		"secret": "JsajjWLp23mdwewefewWEr3444"
+	},
+	"server": {
+		"port": 8000
+	}
+}
